@@ -1,8 +1,8 @@
 # Description                                                                                                                            
 This dataset provides a comprehensive global perspective on education, offering vital insights into diverse education systems worldwide. It covers essential metrics like out-of-school rates, completion rates, proficiency levels, literacy rates, birth rates, and enrollment in primary and tertiary education.
 #  question:
-1.What are the top 10 countries in terms of unemployment?
-2.What are the top 20 countries with the highest Out-of-school rate for upper secondary age females?
+1.What are the top 10 countries in terms of unemployment?\n
+2.What are the top 20 countries with the highest Out-of-school rate for upper secondary age females?\n
 3.Visualisation: in countries where the female primary school dropout rate exceeds 70%.
 What is the correlation between birth rate and primary school dropout rate.
 # Variables
